@@ -1,0 +1,51 @@
+---
+title: "Project 2"
+author: "SID1 SID2 SID3 SI4 SID5"
+subtitle: "Subject Matter"
+date: "University of Sydney | Day Month 2021"
+output:
+  html_document:
+    fig_caption: yes
+    number_sections: yes
+    self_contained: yes
+    theme: flatly
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    code_folding: hide
+---
+
+<br>
+
+# Executive Summary
+
+<br>
+
+# Full Report
+
+## Initial Data Analysis (IDA)
+
+```{r, eval = F}
+# Read in your survey data
+survey = read.csv(#you will need to put your file path here!)
+```
+
+
+## Research Question(s)
+
+<br>
+
+## Articles
+
+<br>
+
+## References
+Use APA
+
+<br>
+
+## Acknowledgments
+When did you team meet (date and time), and what did each team member contribute?
+
+
+

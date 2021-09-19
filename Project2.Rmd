@@ -30,8 +30,6 @@ output:
 survey = read.csv(#you will need to put your file path here!)
 ```
 
-CHANGE CHANGE CHANGE
-
 ## Research Question(s) 
 
 <br>
